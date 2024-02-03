@@ -12,8 +12,7 @@ In this module, we take a look at {{Glossary("asynchronous")}} {{Glossary("JavaS
 >
 > #### Looking to become a front-end web developer?
 >
-> We have put together a course that includes all the essential information you need to
-> work towards your goal.
+>We've crafted a comprehensive course covering all the vital information necessary for you to achieve your goal."
 >
 > [**Get started**](/en-US/docs/Learn/Front-end_web_developer)
 
